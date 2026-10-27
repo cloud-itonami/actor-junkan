@@ -7,6 +7,6 @@
  :profile/id "actor-junkan"
  :profile/default? true
  :bot/name "actor-junkan"
- :bot/brief "etzhayyim/actor-junkan の常駐 actor。charter に従って行動する。"
- :bot/context-refs [{:kind "repo" :target "etzhayyim/actor-junkan"}]
+ :bot/brief "cloud-itonami/actor-junkan の常駐 actor。charter に従って行動する。"
+ :bot/context-refs [{:kind "repo" :target "cloud-itonami/actor-junkan"}]
  :bot/tools-requested []}

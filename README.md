@@ -2,7 +2,7 @@
 
 **Analysis-only societal feedback-loop observer.**
 
-Canonical repository: `etzhayyim/actor-junkan`.
+Canonical repository: `cloud-itonami/actor-junkan`.
 
 Junkan is an analysis organ of the Tamaki artificial organism, not an
 independent policy authority. Its append-only findings remain hypotheses for
